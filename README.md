@@ -55,7 +55,7 @@ Exceptions are that rounding and interest computations are corrected, and the mo
 informal_field_test.apk and focus_groups.apk are identical<br>
 panel_discussion.ipa and summative.ipa are identical
 
-## Licenses
+## License
 
 Native apps are licensed under the MIT License:
 https://opensource.org/licenses/MIT.
