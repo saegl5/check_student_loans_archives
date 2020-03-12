@@ -58,6 +58,6 @@ panel_discussion.ipa and summative.ipa are identical
 ## Licenses
 
 Native apps are licensed under the MIT License:
-https://opensource.org/licenses/MIT
+https://opensource.org/licenses/MIT.
 
-Course material and other resources are licensed under the Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0
+Course material and other resources are licensed under the Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0.
