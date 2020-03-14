@@ -12,7 +12,7 @@ Open the DOCX file with Microsoft Word.<br>
 Open the URL file with Microsoft (Chromium) Edge in Windows. The extension may be hidden.<br>
 Open the WEBLOC file with Safari in macOS.<br>
 Open the DESKTOP file with Mozilla Firefox in Ubuntu.<br>
-Open each PDF file with Acrobat Reader DC (https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html).<br>
+Open each PDF file with [Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html "Click here to access the download link.").<br>
 Open the TXT file with a text editor (e.g., Notepad, TextEdit or gedit).
 
 The APK file is for Android phones running Android 4.2 (Jelly Bean) or above. 
