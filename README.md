@@ -29,14 +29,14 @@ Prerequisites: gnupg (https://www.gnupg.org/)
 To verify the authenticity of the files in a terminal:
 <pre>
 gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
-gpg --verify SHA1SUMS.gpg SHA1SUMS   # example
+gpg --verify SHA1SUMS.gpg SHA1SUMS
 </pre>
 
 To verify the integrity of the files in a terminal:
 <pre>
-sha1sum -c SHA1SUMS   # example (Ubuntu)
-shasum -a 1 -c SHA1SUMS   # example (macOS)
-sha1sum -c SHA1SUMS   # example (Windows Subsystem for Linux)
+sha1sum -c SHA1SUMS (Ubuntu)
+shasum -a 1 -c SHA1SUMS (macOS)
+sha1sum -c SHA1SUMS (Windows Subsystem for Linux)
 </pre>
 
 ## Notes
@@ -45,8 +45,8 @@ If one verifies authenticity using Windows Subsystem for Linux, the terminal may
 Convert file hashes/checksums to Unix format, and retry:
 <pre>
 sudo apt install dos2unix
-dos2unix SHA1SUMS   # example
-gpg --verify SHA1SUMS.gpg SHA1SUMS   # example
+dos2unix SHA1SUMS
+gpg --verify SHA1SUMS.gpg SHA1SUMS
 </pre>
 
 panel_discussion.ipa is a close replica of the native app utilized in the study.<br>
