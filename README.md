@@ -6,7 +6,7 @@ This project consists of collection of resources of an experimental study.
 
 Download the respective ZIP file, and <i>unzip</i> it.
 
-Open the IPYNB file with JupyterLab.<br>
+Open the IPYNB file with SageMath Notebook.<br>
 Open the XLSX file with Microsoft Excel.<br>
 Open the DOCX file with Microsoft Word.<br>
 Open the URL file with Microsoft (Chromium) Edge in Windows. The extension may be hidden.<br>
