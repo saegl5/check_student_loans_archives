@@ -1,4 +1,4 @@
-# ![Alt](./app_icon_and_logo.png "Check Student Loans"): Archives
+# ![Alt](./images/app_icon_and_logo.png "Check Student Loans"): Archives
 
 This project consists of collection of resources of an experimental study.
 
