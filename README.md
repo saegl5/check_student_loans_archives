@@ -38,7 +38,7 @@ To verify the integrity of the files in a terminal:
 (macOS) shasum -a 1 -c SHA1SUMS
 
 (Windows)
-ls *.ipa | Get-FileHash -Algorithm SHA1
+ls *.zip | Get-FileHash -Algorithm SHA1
 Get-Content .\SHA1SUMS
 (check that hashes match)
 </pre>
