@@ -34,9 +34,13 @@ gpg --verify SHA1SUMS.gpg SHA1SUMS
 
 To verify the integrity of the files in a terminal:
 <pre>
-sha1sum -c SHA1SUMS (Ubuntu)
-shasum -a 1 -c SHA1SUMS (macOS)
-sha1sum -c SHA1SUMS (Windows Subsystem for Linux)
+(Ubuntu) sha1sum -c SHA1SUMS
+(macOS) shasum -a 1 -c SHA1SUMS
+
+(Windows)
+ls *.ipa | Get-FileHash -Algorithm SHA1
+Get-Content .\SHA1SUMS
+(check that hashes match)
 </pre>
 
 ## Notes
