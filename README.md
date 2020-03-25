@@ -45,12 +45,13 @@ Get-Content .\SHA1SUMS
 
 ## Notes
 
-If one verifies authenticity using Windows Subsystem for Linux, the terminal may output ``BAD signature.''<br>
-Convert file hashes/checksums to Unix format, and retry:
+If one verifies authenticity and integrity using Windows Subsystem for Linux, the terminal may output "BAD signature" and "FAILED open or read."<br>
+If so, convert checksum files to Unix format, and retry:
 <pre>
 sudo apt install dos2unix
 dos2unix SHA1SUMS
 gpg --verify SHA1SUMS.gpg SHA1SUMS
+sha1sum -c SHA1SUMS
 </pre>
 
 panel_discussion.ipa is a close replica of the native app utilized in the study.<br>
