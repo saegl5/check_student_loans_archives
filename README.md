@@ -1,4 +1,4 @@
-![Alt](./images/app_icon_and_logo.png "Check Student Loans")
+![Alt](./Images/app_icon_and_logo.png "Check Student Loans")
 
 ## Archives
 
