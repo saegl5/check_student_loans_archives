@@ -6,7 +6,7 @@ This project consists of collection of resources of an experimental study.
 
 ## Instructions
 
-Download the respective ZIP file, and <i>unzip</i> it.
+Download the respective ZIP file, and *unzip* it.
 
 Open the IPYNB file with SageMath Notebook.<br>
 Open the XLSX file with Microsoft Excel.<br>
