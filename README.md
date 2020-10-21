@@ -8,7 +8,8 @@ This project consists of collection of resources of an experimental study.
 
 Download the respective ZIP file, and *unzip* it.
 
-Open the IPYNB file with SageMath Notebook. \
+~~Open the IPYNB file with SageMath Notebook.~~ \
+Run the PY file with Python 3. \
 Open the XLSX file with Microsoft Excel. \
 Open the DOCX file with Microsoft Word. \
 Open the URL file with Microsoft (Chromium) Edge in Windows. The extension may be hidden. \
