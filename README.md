@@ -31,7 +31,7 @@ Prerequisites: gnupg (https://www.gnupg.org/)
 
 To verify the authenticity of the files in a terminal:
 ```
-gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
+gpg --keyserver hkps://keys.openpgp.org:443 --recv-keys 0x4191f431
 gpg --verify SHA1SUMS.gpg SHA1SUMS
 ```
 
